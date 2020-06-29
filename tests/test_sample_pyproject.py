@@ -5,9 +5,6 @@
 import pytest
 
 
-from sample_pyproject import sample_pyproject
-
-
 @pytest.fixture
 def response():
     """Sample pytest fixture.
